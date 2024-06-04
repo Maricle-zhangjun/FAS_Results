@@ -36,4 +36,5 @@
 
 | Method | CASIA-FASD <br> EER(%) | Repaly-Attack <br> EER(%) HTER(%)| Year Notes |
 | :---: | :---: | :---: | :---: |
+| [LBP](https://ieeexplore.ieee.org/document/6313548) | 18.2 | 13.9 13.8 | 2012 BIOSIG |
 
