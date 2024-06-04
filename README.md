@@ -37,4 +37,10 @@
 | Method | CASIA-FASD <br> EER(%) | Repaly-Attack <br> EER(%) HTER(%)| Year Notes |
 | :---: | :---: | :---: | :---: |
 | [LBP](https://ieeexplore.ieee.org/document/6313548) | 18.2 | 13.9 13.8 | 2012 BIOSIG |
+| [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) | 10.6 | 7.80 7.60 | 2012 ACCVW |
+| [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) | 10.0 | 7.90 7.60 | 2012 ACCVW |
+| [Motion-Mag](https://ieeexplore.ieee.org/document/6595861) | 14.4 | 0.20 0.00 | 2013 CVPRW |
+| [Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280) | 6.20 | 0.40 2.90 | 2015 ICIP |
+| [New Color LBP](https://ieeexplore.ieee.org/document/7454730) | 3.20 | 0.00 3.50 | 2016 TIFS |
+| [SURF-FV](https://ieeexplore.ieee.org/document/7748511) | 2.80 | 0.10 2.20 | 2017 SPL |
 
