@@ -23,6 +23,7 @@
 | [CIFAS](https://ieeexplore.ieee.org/document/9859783) | 5.95 96.32 | 10.66 95.30 | 8.50 97.24 | 13.17 93.44 |  2022 ICME |
 | [DSCI](https://ieeexplore.ieee.org/abstract/document/10288514) | 5.48 97.39 | 8.00 97.50 | 5.71 98.44 |  12.59 94.57 |  2024 TIFS |
 
+---
 
 <a name="intra" />
 
