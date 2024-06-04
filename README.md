@@ -43,4 +43,11 @@
 | [Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280) | 6.20 | 0.40 2.90 | 2015 ICIP |
 | [New Color LBP](https://ieeexplore.ieee.org/document/7454730) | 3.20 | 0.00 3.50 | 2016 TIFS |
 | [SURF-FV](https://ieeexplore.ieee.org/document/7748511) | 2.80 | 0.10 2.20 | 2017 SPL |
+| [CNN](https://arxiv.org/abs/1408.5601) | 7.40 | 6.10 2.10 | 2014 arXiv |
+| [Partial CNN](https://ieeexplore.ieee.org/document/7821013) | 4.50 |  2.90 6.10 | 2016 IPTA |
+| [Patch CNN](https://ieeexplore.ieee.org/document/8272713) | 2.67 |  0.79 0.72 | 2017 IJCN |
+| [DDGL](https://ieeexplore.ieee.org/document/7867821) | - |  - 0.00 | 2017 TIFS |
+| [3D-CNN](https://ieeexplore.ieee.org/document/8335313) | 1.40 |  0.30  1.20 | 2018 TIFS |
+| [Att Two Streem-CNN](https://ieeexplore.ieee.org/document/8737949) | 3.14 | 0.13 0.25 | 2020 TIFS |
+| [Deep Transfer Net (DTN)](https://ieeexplore.ieee.org/document/9507460) | 1.34 | 0.06 0.02 | 2021 TIFS |
 
