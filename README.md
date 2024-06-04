@@ -13,6 +13,6 @@
 ## Cross test
 
 | Method    | O&C&I to M <br> HTER AUC | O&M&I to C <br> HTER AUC | O&C&M to I <br> HTER AUC | I&C&M to O <br> HTER AUC | Year Notes |
-| --------  |  --------  | ---------  | ---------  | ---------  | ---------  |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 
