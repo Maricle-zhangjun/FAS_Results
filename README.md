@@ -32,6 +32,6 @@
 
 #### CASIA-FASD & Replay-attack
 
-| Method | CASIA-FASD <br> EER | Repaly-Attack <br> EER HTER| Year Notes |
+| Method | CASIA-FASD <br> EER(%) | Repaly-Attack <br> EER(%) HTER(%)| Year Notes |
 | :---: | :---: | :---: | :---: |
 
