@@ -55,6 +55,10 @@
 
 #### OULU-NPU
 
-| Pro | Method | APCER(%) | BPCER(%) | ACER(%) | Year Notes |
+| Protocol | Method | APCER(%) | BPCER(%) | ACER(%) | Year Notes |
 | :---: | :---: | :---: | :---: |:---: | :---: |
 | Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 5.1 | 6.7 | 5.9 | 2020 TIFS |
+| Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 7.6 | 2.2 | 4.9 | 2020 TIFS |
+| Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
+| Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
+
