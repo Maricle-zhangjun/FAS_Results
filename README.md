@@ -70,7 +70,6 @@
 | Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 0.9 | 0.1 | 0.5 | 2022 ICONIP |
 | Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 0.8 | 0 | 0.4 | 2023 CVPRW |
 | Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0 | 0 | 0 | 2023 CVPRW |
-
 | Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 7.6 | 2.2 | 4.9 | 2020 TIFS |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2 | 2.6 | 2.4 | 2022 TIFS |
 | Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
