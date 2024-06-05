@@ -6,7 +6,7 @@
 - [Intra test](#intra)
   - [CASIA-FASD & Replay-attack](#C&R)
   - [OULU-NPU](#O)
-  - [SiW] 
+  - [SiW](#S) 
 
 ---
 
@@ -65,3 +65,13 @@
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2±2.0 | 2.8±3.7 | 2.5±2.6 | 2022 TIFS |
 | Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
 | Pro.4 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 6.6±7.1 | 6.0±5.5 | 6.3±5.9 | 2022 TIFS |
+
+<a name="S" />
+
+#### SiW
+
+| Protocol | Method | APCER(%) | BPCER(%) | ACER(%) | Year Notes |
+| :---: | :---: | :---: | :---: |:---: | :---: |
+| Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 0.89 | 0.97 | 0.93 | 2022 TIFS |
+| Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 0.39±0.31 | 0.29±0.23 | 0.34±0.27 | 2022 TIFS |
+| Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 8.26±1.98 | 8.12±2.17 | 8.19±2.24 | 2022 TIFS |
