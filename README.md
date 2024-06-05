@@ -59,12 +59,9 @@
 | :---: | :---: | :---: | :---: |:---: | :---: |
 | Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 5.1 | 6.7 | 5.9 | 2020 TIFS |
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 0.6 | 1.2 | 0.9 | 2022 TIFS |
-
 | Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 7.6 | 2.2 | 4.9 | 2020 TIFS |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2 | 2.6 | 2.4 | 2022 TIFS |
-
 | Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2±2.0 | 2.8±3.7 | 2.5±2.6 | 2022 TIFS |
-
 | Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
 | Pro.4 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 6.6±7.1 | 6.0±5.5 | 6.3±5.9 | 2022 TIFS |
