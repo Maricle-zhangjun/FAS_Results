@@ -43,6 +43,7 @@
 | [Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280) | 6.20 | 0.40 2.90 | 2015 ICIP |
 | [New Color LBP](https://ieeexplore.ieee.org/document/7454730) | 3.20 | 0.00 3.50 | 2016 TIFS |
 | [SURF-FV](https://ieeexplore.ieee.org/document/7748511) | 2.80 | 0.10 2.20 | 2017 SPL |
+| [HASC](https://www.sciencedirect.com/science/article/abs/pii/S0952197623019723) | 2.85 | 1.67 2.67 | 2024 EAAI |
 | [CNN](https://arxiv.org/abs/1408.5601) | 7.40 | 6.10 2.10 | 2014 arXiv |
 | [Partial CNN](https://ieeexplore.ieee.org/document/7821013) | 4.50 |  2.90 6.10 | 2016 IPTA |
 | [Patch CNN](https://ieeexplore.ieee.org/document/8272713) | 2.67 |  0.79 0.72 | 2017 IJCN |
@@ -50,6 +51,8 @@
 | [3D-CNN](https://ieeexplore.ieee.org/document/8335313) | 1.40 |  0.30  1.20 | 2018 TIFS |
 | [Att Two Streem-CNN (ATS-CNN)](https://ieeexplore.ieee.org/document/8737949) | 3.14 | 0.13 0.25 | 2020 TIFS |
 | [Deep Transfer Net (DTN)](https://ieeexplore.ieee.org/document/9507460) | 1.34 | 0.06 0.02 | 2021 TIFS |
+| [CIFL](https://ieeexplore.ieee.org/document/9336714) | 0.89 | - - | 2021 TIFS |
+| [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) | 0.00 | 0.00 0.00 | 2022 JVCIR |
 
 <a name="O" />
 
@@ -57,8 +60,17 @@
 
 | Protocol | Method | APCER(%) | BPCER(%) | ACER(%) | Year Notes |
 | :---: | :---: | :---: | :---: |:---: | :---: |
+| Pro.1 | [CDCN](https://ieeexplore.ieee.org/document/9156660) | 0.4 | 1.7 | 1.0 | 2020 CVPR |
 | Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 5.1 | 6.7 | 5.9 | 2020 TIFS |
+| Pro.1 | [CIFL](https://ieeexplore.ieee.org/document/9336714) | 3.8 | 2.9 | 3.4 | 2021 TIFS |
+| Pro.1 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) | 0.4 | 0 | 0.2 | 2021 TPAMI |
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 0.6 | 1.2 | 0.9 | 2022 TIFS |
+| Pro.1 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) | 1.7 | 0 | 0.9 | 2022 JVCIR |
+| Pro.1 | [DSDG](https://ieeexplore.ieee.org/document/9641836) | 0.6 | 0 | 0.3 | 2022 TCSVT |
+| Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 0.9 | 0.1 | 0.5 | 2022 ICONIP |
+| Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 0.8 | 0 | 0.4 | 2023 CVPRW |
+| Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0 | 0 | 0 | 2023 CVPRW |
+
 | Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 7.6 | 2.2 | 4.9 | 2020 TIFS |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2 | 2.6 | 2.4 | 2022 TIFS |
 | Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
