@@ -70,8 +70,16 @@
 | Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 0.9 | 0.1 | 0.5 | 2022 ICONIP |
 | Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 0.8 | 0 | 0.4 | 2023 CVPRW |
 | Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0 | 0 | 0 | 2023 CVPRW |
+| Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) | 1.5 | 1.4 | 1.5 | 2020 CVPR |
 | Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 7.6 | 2.2 | 4.9 | 2020 TIFS |
+| Pro.2 | [CIFL](https://ieeexplore.ieee.org/document/9336714) | 3.6 | 1.2 | 2.4 | 2021 TIFS |
+| Pro.2 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) | 1.5 | 0.8 | 1.2 | 2021 TPAMI |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2 | 2.6 | 2.4 | 2022 TIFS |
+| Pro.2 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) | 0.8 | 1.3 | 1.1 | 2022 JVCIR |
+| Pro.2 | [DSDG](https://ieeexplore.ieee.org/document/9641836) | 1.5 | 0.8 | 1.2 | 2022 TCSVT |
+| Pro.2 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 3.0 | 0.3 | 1.7 | 2022 ICONIP |
+| Pro.2 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 1.5 | 0.9 | 1.2 | 2023 CVPRW |
+| Pro.2 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0.8 | 0.8 | 0.8 | 2023 CVPRW |
 | Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 2.2±2.0 | 2.8±3.7 | 2.5±2.6 | 2022 TIFS |
 | Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
