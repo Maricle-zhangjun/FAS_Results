@@ -90,8 +90,16 @@
 | Pro.3 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 1.4±1.0 | 1.9±3.5 | 1.7±1.5 | 2022 ICONIP |
 | Pro.3 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 1.2±1.2 | 2.2±1.8 | 1.7±1.6 | 2023 CVPRW |
 | Pro.3 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0.9±0.8 | 0.8±0.8 | 0.9±0.8 | 2023 CVPRW |
+| Pro.4 | [CDCN](https://ieeexplore.ieee.org/document/9156660) | 4.6±4.6 | 9.2±8.0 | 6.9±2.9 | 2020 CVPR |
 | Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
+| Pro.4 | [CIFL](https://ieeexplore.ieee.org/document/9336714) | 5.9±3.3 | 6.3±4.7 | 6.1±4.1 | 2021 TIFS |
+| Pro.4 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) | 4.2±5.3 | 1.7±2.6 | 2.9±2.8 | 2021 TPAMI |
 | Pro.4 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 6.6±7.1 | 6.0±5.5 | 6.3±5.9 | 2022 TIFS |
+| Pro.4 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) | 7.4±5.0 | 1.2±2.2 | 4.3±1.9 | 2022 JVCIR |
+| Pro.4 | [DSDG](https://ieeexplore.ieee.org/document/9641836) | 2.1±1.0 | 2.5±4.2 | 2.3±2.3 | 2022 TCSVT |
+| Pro.4 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 5.7±4.8 | 1.5±3.2 | 3.5±3.4 | 2022 ICONIP |
+| Pro.4 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 4.9±3.2 | 5.7±6.2 | 5.3±2.9 | 2023 CVPRW |
+| Pro.4 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 4.6±2.2 | 4.2±1.9 | 4.4±2.0 | 2023 CVPRW |
 
 <a name="S" />
 
