@@ -16,7 +16,7 @@
 
 | Method | Results From | O&C&I to M <br> HTER(%) AUC(%) | O&M&I to C <br> HTER(%) AUC(%) | O&C&M to I <br> HTER(%) AUC(%) | I&C&M to O <br> HTER(%) AUC(%) | Year Notes | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [MADDG](https://ieeexplore.ieee.org/abstract/document/8953226) || 17.69  88.06 | 24.50 84.51 | 22.19 84.99 | 27.89 80.02 | 2019 CVPR | [Code](https://github.com/rshaojimmy/MADDoG) |
+| [MADDG](https://ieeexplore.ieee.org/abstract/document/8953226) || 17.69 88.06 | 24.50 84.51 | 22.19 84.99 | 27.89 80.02 | 2019 CVPR | [Code](https://github.com/rshaojimmy/MADDoG) |
 | [PAD-GAN](https://ieeexplore.ieee.org/document/9156555) || 17.02 90.10 | 19.68 87.43 | 20.87 86.72 | 25.02 81.47 |  2020 CVPR ||
 | [SSDG](https://ieeexplore.ieee.org/document/9156366) || 7.38 97.17 | 10.44 95.94 | 11.71 96.59 | 15.61 91.54 |  2020 CVPR | [Code](https://github.com/taylover-pei/SSDG-CVPR2020) |
 | [DDAM](https://ojs.aaai.org/index.php/AAAI/article/view/16199) || 12.70 95.66 | 20.98 85.58 | 15.43 91.22 | 15.27 90.87 | 2021 AAAI ||
@@ -58,18 +58,18 @@
 
 #### OULU-NPU
 
-| Protocol | Method | APCER(%) | BPCER(%) | ACER(%) | Year Notes |
-| :---: | :---: | :---: | :---: |:---: | :---: |
-| Pro.1 | [CDCN](https://ieeexplore.ieee.org/document/9156660) | 0.4 | 1.7 | 1.0 | 2020 CVPR |
-| Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 5.1 | 6.7 | 5.9 | 2020 TIFS |
-| Pro.1 | [CIFL](https://ieeexplore.ieee.org/document/9336714) | 3.8 | 2.9 | 3.4 | 2021 TIFS |
-| Pro.1 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) | 0.4 | 0 | 0.2 | 2021 TPAMI |
-| Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 0.6 | 1.2 | 0.9 | 2022 TIFS |
-| Pro.1 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) | 1.7 | 0 | 0.9 | 2022 JVCIR |
-| Pro.1 | [DSDG](https://ieeexplore.ieee.org/document/9641836) | 0.6 | 0 | 0.3 | 2022 TCSVT |
-| Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 0.9 | 0.1 | 0.5 | 2022 ICONIP |
-| Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 0.8 | 0 | 0.4 | 2023 CVPRW |
-| Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0 | 0 | 0 | 2023 CVPRW |
+| Protocol | Method | APCER(%) | BPCER(%) | ACER(%) | Year Notes | Code |
+| :---: | :---: | :---: | :---: |:---: | :---: | :---: |
+| Pro.1 | [CDCN](https://ieeexplore.ieee.org/document/9156660) | 0.4 | 1.7 | 1.0 | 2020 CVPR ||
+| Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 5.1 | 6.7 | 5.9 | 2020 TIFS ||
+| Pro.1 | [CIFL](https://ieeexplore.ieee.org/document/9336714) | 3.8 | 2.9 | 3.4 | 2021 TIFS ||
+| Pro.1 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) | 0.4 | 0 | 0.2 | 2021 TPAMI ||
+| Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) | 0.6 | 1.2 | 0.9 | 2022 TIFS ||
+| Pro.1 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) | 1.7 | 0 | 0.9 | 2022 JVCIR ||
+| Pro.1 | [DSDG](https://ieeexplore.ieee.org/document/9641836) | 0.6 | 0 | 0.3 | 2022 TCSVT ||
+| Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) | 0.9 | 0.1 | 0.5 | 2022 ICONIP ||
+| Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) | 0.8 | 0 | 0.4 | 2023 CVPRW ||
+| Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) | 0 | 0 | 0 | 2023 CVPRW ||
 | Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) | 1.5 | 1.4 | 1.5 | 2020 CVPR |
 | Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) | 7.6 | 2.2 | 4.9 | 2020 TIFS |
 | Pro.2 | [CIFL](https://ieeexplore.ieee.org/document/9336714) | 3.6 | 1.2 | 2.4 | 2021 TIFS |
