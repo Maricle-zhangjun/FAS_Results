@@ -1,5 +1,7 @@
 # Paper results of Face Anti-spoofing
-## If experiment results are derived from a non-original paper, the paper needs to be tagged in 'Results From'.
+
+If experiment results are derived from a non-original paper, the paper needs to be tagged in 'Results From'.
+
 ---
 
 ## Contents
