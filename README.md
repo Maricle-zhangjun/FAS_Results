@@ -37,15 +37,15 @@
 
 | Method | Results From | CASIA-FASD <br> EER(%) | Repaly-Attack <br> EER(%) HTER(%)| Year Notes | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [LBP](https://ieeexplore.ieee.org/document/6313548) || 18.2 | 13.9 13.8 | 2012 BIOSIG |
-| [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) || 10.6 | 7.80 7.60 | 2012 ACCVW |
-| [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) || 10.0 | 7.90 7.60 | 2012 ACCVW |
-| [Motion-Mag](https://ieeexplore.ieee.org/document/6595861) || 14.4 | 0.20 0.00 | 2013 CVPRW |
+| [LBP](https://ieeexplore.ieee.org/document/6313548) |[Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280)| 18.2 | 13.9 13.8 | 2012 BIOSIG |
+| [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) |[Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280)| 10.6 | 7.80 7.60 | 2012 ACCVW |
+| [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) |[SURF-FV](https://ieeexplore.ieee.org/document/7748511)| 10.0 | 7.90 7.60 | 2012 ACCVW |
+| [Motion-Mag](https://ieeexplore.ieee.org/document/6595861) |[Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280)| 14.4 | 0.20 0.00 | 2013 CVPRW |
 | [Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280) || 6.20 | 0.40 2.90 | 2015 ICIP | [Code](https://github.com/Elroborn/Face-anti-spoofing-based-on-color-texture-analysis) |
 | [New Color LBP](https://ieeexplore.ieee.org/document/7454730) || 3.20 | 0.00 3.50 | 2016 TIFS |
 | [SURF-FV](https://ieeexplore.ieee.org/document/7748511) || 2.80 | 0.10 2.20 | 2017 SPL |
 | [HASC](https://www.sciencedirect.com/science/article/abs/pii/S0952197623019723) || 2.85 | 1.67 2.67 | 2024 EAAI |
-| [CNN](https://arxiv.org/abs/1408.5601) || 7.40 | 6.10 2.10 | 2014 arXiv |[Code1](https://github.com/mnikitin/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing?tab=readme-ov-file) [Code2](https://github.com/RizhaoCai/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing) [Code3](https://github.com/Elroborn/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing_pytorch)|
+| [CNN](https://arxiv.org/abs/1408.5601) |[New Color LBP](https://ieeexplore.ieee.org/document/7454730)| 7.40 | 6.10 2.10 | 2014 arXiv |[Code1](https://github.com/mnikitin/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing?tab=readme-ov-file) [Code2](https://github.com/RizhaoCai/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing) [Code3](https://github.com/Elroborn/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing_pytorch)|
 | [Partial CNN](https://ieeexplore.ieee.org/document/7821013) || 4.50 | 2.90 6.10 | 2016 IPTA |
 | [Patch CNN](https://ieeexplore.ieee.org/document/8272713) || 2.67 | 0.79 0.72 | 2017 IJCN | [Code](https://github.com/shicaiwei123/patch_based_cnn) |
 | [DDGL](https://ieeexplore.ieee.org/document/7867821) || - |  - 0.00 | 2017 TIFS |
