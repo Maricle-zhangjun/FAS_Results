@@ -111,5 +111,8 @@
 | Protocol | Method | Results From | APCER(%) | BPCER(%) | ACER(%) | Year Notes | Code |
 | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: |
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.89 | 0.97 | 0.93 | 2022 TIFS |
+| Pro.1 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00 | 0.00 | 0.00 | 2022 WACV |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.39±0.31 | 0.29±0.23 | 0.34±0.27 | 2022 TIFS |
+| Pro.2 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 WACV |
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 8.26±1.98 | 8.12±2.17 | 8.19±2.24 | 2022 TIFS |
+| Pro.3 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 4.77±5.04 | 2.44±2.74 | 3.58±3.93 | 2022 WACV |
