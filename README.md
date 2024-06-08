@@ -64,6 +64,7 @@
 | Protocol | Method | Results From | APCER(%) | BPCER(%) | ACER(%) | Year Notes | Code |
 | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: |
 | Pro.1 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 0.4 | 1.7 | 1.0 | 2020 CVPR | [Code](https://github.com/ZitongYu/CDCN) |
+| Pro.1 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 0.4 | 0.0 | 0.2 | 2020 CVPR |
 | Pro.1 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 1.7 | 0.8 | 1.3 | 2020 ECCV |
 | Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) |[SAFPAD](https://ieeexplore.ieee.org/document/9650907)| 5.1 | 6.7 | 5.9 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
 | Pro.1 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 3.8 | 2.9 | 3.4 | 2021 TIFS |
@@ -72,9 +73,11 @@
 | Pro.1 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) || 1.7 | 0 | 0.9 | 2022 JVCIR |
 | Pro.1 | [DSDG](https://ieeexplore.ieee.org/document/9641836) || 0.6 | 0 | 0.3 | 2022 TCSVT | [Code](https://github.com/JDAI-CV/FaceX-Zoo/tree/main/addition_module/DSDG) |
 | Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) || 0.9 | 0.1 | 0.5 | 2022 ICONIP |
+| Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.0 | 0.8 | 0.4 | 2022 TPAMI |
 | Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 0.8 | 0 | 0.4 | 2023 CVPRW |
 | Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0 | 0 | 0 | 2023 CVPRW |
 | Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 1.5 | 1.4 | 1.5 | 2020 CVPR |
+| Pro.2 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 1.8 | 0.8 | 1.3 | 2020 CVPR |
 | Pro.2 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 1.1 | 3.6 | 2.4 | 2020 ECCV |
 | Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 7.6 | 2.2 | 4.9 | 2020 TIFS |
 | Pro.2 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 3.6 | 1.2 | 2.4 | 2021 TIFS |
@@ -83,9 +86,11 @@
 | Pro.2 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) || 0.8 | 1.3 | 1.1 | 2022 JVCIR |
 | Pro.2 | [DSDG](https://ieeexplore.ieee.org/document/9641836) || 1.5 | 0.8 | 1.2 | 2022 TCSVT |
 | Pro.2 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) || 3.0 | 0.3 | 1.7 | 2022 ICONIP |
+| Pro.2 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 1.2 | 1.3 | 1.3 | 2022 TPAMI |
 | Pro.2 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 1.5 | 0.9 | 1.2 | 2023 CVPRW |
 | Pro.2 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0.8 | 0.8 | 0.8 | 2023 CVPRW |
 | Pro.3 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 2.4±1.3 | 2.2±2.0 | 2.3±1.4 | 2020 CVPR |
+| Pro.3 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 1.7±1.5 | 2.0±1.2 | 1.8±0.7 | 2020 CVPR |
 | Pro.3 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 2.8±2.2 | 1.7±2.6 | 2.2±2.2 | 2020 ECCV |
 | Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
 | Pro.3 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 3.8±1.3 | 1.1±1.1 | 2.5±0.8 | 2021 TIFS |
@@ -94,9 +99,11 @@
 | Pro.3 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) || 2.4±2.6 | 1.4±2.2 | 1.9±1.3 | 2022 JVCIR |
 | Pro.3 | [DSDG](https://ieeexplore.ieee.org/document/9641836) || 1.2±0.8 | 1.7±3.3 | 1.4±1.5 | 2022 TCSVT |
 | Pro.3 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) || 1.4±1.0 | 1.9±3.5 | 1.7±1.5 | 2022 ICONIP |
+| Pro.3 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 1.7±1.4 | 2.2±3.5 | 1.9±2.3 | 2022 TPAMI |
 | Pro.3 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 1.2±1.2 | 2.2±1.8 | 1.7±1.6 | 2023 CVPRW |
 | Pro.3 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0.9±0.8 | 0.8±0.8 | 0.9±0.8 | 2023 CVPRW |
 | Pro.4 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 4.6±4.6 | 9.2±8.0 | 6.9±2.9 | 2020 CVPR |
+| Pro.4 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 4.2±3.4 | 5.8±4.9 | 5.0±2.9 | 2020 CVPR |
 | Pro.4 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 5.4±2.9 | 3.3±6.0 | 4.4±3.0 | 2020 ECCV |
 | Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
 | Pro.4 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 5.9±3.3 | 6.3±4.7 | 6.1±4.1 | 2021 TIFS |
@@ -105,6 +112,7 @@
 | Pro.4 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) || 7.4±5.0 | 1.2±2.2 | 4.3±1.9 | 2022 JVCIR |
 | Pro.4 | [DSDG](https://ieeexplore.ieee.org/document/9641836) || 2.1±1.0 | 2.5±4.2 | 2.3±2.3 | 2022 TCSVT |
 | Pro.4 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) || 5.7±4.8 | 1.5±3.2 | 3.5±3.4 | 2022 ICONIP |
+| Pro.4 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 2.3±3.6 | 4.2±5.4 | 3.6±4.2 | 2022 TPAMI |
 | Pro.4 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 4.9±3.2 | 5.7±6.2 | 5.3±2.9 | 2023 CVPRW |
 | Pro.4 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 4.6±2.2 | 4.2±1.9 | 4.4±2.0 | 2023 CVPRW |
 
@@ -114,18 +122,24 @@
 
 | Protocol | Method | Results From | APCER(%) | BPCER(%) | ACER(%) | Year Notes | Code |
 | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: |
+| Pro.1 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 0.07 | 0.17 | 0.12 | 2020 CVPR |[Code](https://github.com/ZitongYu/CDCN) |
+| Pro.1 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 0.07 | 0.17 | 0.12 | 2020 CVPR |
 | Pro.1 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 0.55 | 0.17 | 0.36 | 2020 ECCV |
 | Pro.1 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 0.07 | 0.50 | 0.28 | 2020 ECCV |
 | Pro.1 | [STDN](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_24) || 0.00 | 0.00 | 0.00 | 2020 ECCV | [Code](https://github.com/yaojieliu/ECCV20-STDN) |
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.89 | 0.97 | 0.93 | 2022 TIFS |
 | Pro.1 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00 | 0.00 | 0.00 | 2022 WACV |
 | Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00 | 0.00 | 0.00 | 2022 TPAMI |
+| Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 0.00±0.00 | 0.13±0.09 | 0.06±0.04 | 2020 CVPR |
+| Pro.2 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 0.00±0.00 | 0.09±0.10 | 0.04±0.05 | 2020 CVPR |
 | Pro.2 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 0.08±0.17 | 0.15±0.00 | 0.11±0.08 | 2020 ECCV |
 | Pro.2 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 0.08±0.17 | 0.13±0.09 | 0.10±0.04 | 2020 ECCV |
 | Pro.2 | [STDN](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_24) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2020 ECCV |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.39±0.31 | 0.29±0.23 | 0.34±0.27 | 2022 TIFS |
 | Pro.2 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 WACV |
 | Pro.2 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 TPAMI |
+| Pro.3 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 1.67±0.11 | 1.76±0.12 | 1.71±0.11 | 2020 CVPR |
+| Pro.3 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 1.97±0.33 | 1.77±0.10 | 1.90±0.15 | 2020 CVPR |
 | Pro.3 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 2.55±0.89 | 2.34±0.47 | 2.45±0.68 | 2020 ECCV |
 | Pro.3 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 9.35±6.14 | 1.84±2.60 | 5.59±4.37 | 2020 ECCV |
 | Pro.3 | [STDN](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_24) || 8.3±3.3 | 7.5±3.3 |  7.9±3.3 | 2020 ECCV |
