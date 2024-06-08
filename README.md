@@ -116,13 +116,19 @@
 | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: |
 | Pro.1 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 0.55 | 0.17 | 0.36 | 2020 ECCV |
 | Pro.1 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 0.07 | 0.50 | 0.28 | 2020 ECCV |
+| Pro.1 | [STDN](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_24) || 0.00 | 0.00 | 0.00 | 2020 ECCV | [Code](https://github.com/yaojieliu/ECCV20-STDN) |
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.89 | 0.97 | 0.93 | 2022 TIFS |
 | Pro.1 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00 | 0.00 | 0.00 | 2022 WACV |
+| Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00 | 0.00 | 0.00 | 2022 TPAMI |
 | Pro.2 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 0.08±0.17 | 0.15±0.00 | 0.11±0.08 | 2020 ECCV |
 | Pro.2 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 0.08±0.17 | 0.13±0.09 | 0.10±0.04 | 2020 ECCV |
+| Pro.2 | [STDN](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_24) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2020 ECCV |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.39±0.31 | 0.29±0.23 | 0.34±0.27 | 2022 TIFS |
 | Pro.2 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 WACV |
+| Pro.2 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 TPAMI |
 | Pro.3 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 2.55±0.89 | 2.34±0.47 | 2.45±0.68 | 2020 ECCV |
 | Pro.3 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 9.35±6.14 | 1.84±2.60 | 5.59±4.37 | 2020 ECCV |
+| Pro.3 | [STDN](https://link.springer.com/chapter/10.1007/978-3-030-58523-5_24) || 8.3±3.3 | 7.5±3.3 |  7.9±3.3 | 2020 ECCV |
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 8.26±1.98 | 8.12±2.17 | 8.19±2.24 | 2022 TIFS |
 | Pro.3 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 4.77±5.04 | 2.44±2.74 | 3.58±3.93 | 2022 WACV |
+| Pro.3 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 13.1±9.4 | 1.6±0.6 | 7.4±4.3 | 2022 TPAMI |
