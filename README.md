@@ -75,6 +75,7 @@
 | Pro.1 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) || 1.7 | 0 | 0.9 | 2022 JVCIR |
 | Pro.1 | [DSDG](https://ieeexplore.ieee.org/document/9641836) || 0.6 | 0 | 0.3 | 2022 TCSVT | [Code](https://github.com/JDAI-CV/FaceX-Zoo/tree/main/addition_module/DSDG) |
 | Pro.1 | [DE-ViT](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) || 0.9 | 0.1 | 0.5 | 2022 ICONIP |
+| Pro.1 | [IDCL](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_29) || 0.9 | 0.1 | 0.5 | 2022 ICONIP |
 | Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.0 | 0.8 | 0.4 | 2022 TPAMI |
 | Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 0.8 | 0 | 0.4 | 2023 CVPRW |
 | Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0 | 0 | 0 | 2023 CVPRW |
