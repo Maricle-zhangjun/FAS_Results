@@ -22,7 +22,7 @@
 | [MADDG](https://ieeexplore.ieee.org/abstract/document/8953226) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 17.69 88.06 | 24.50 84.51 | 22.19 84.99 | 27.89 80.02 | 2019 CVPR | [Code](https://github.com/rshaojimmy/MADDoG) |
 | [PAD-GAN](https://ieeexplore.ieee.org/document/9156555) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 17.02 90.10 | 19.68 87.43 | 20.87 86.72 | 25.02 81.47 |  2020 CVPR |
 | [SSDG](https://ieeexplore.ieee.org/document/9156366) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 7.38 97.17 | 10.44 95.94 | 11.71 96.59 | 15.61 91.54 | 2020 CVPR | [Code](https://github.com/taylover-pei/SSDG-CVPR2020) |
-| [DDAM](https://ojs.aaai.org/index.php/AAAI/article/view/16199) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 12.70 95.66 | 20.98 85.58 | 15.43 91.22 | 15.27 90.87 | 2021 AAAI |
+| [DDAM](https://ojs.aaai.org/index.php/AAAI/article/view/16199) || 12.70 95.66 | 20.98 85.58 | 15.43 91.22 | 15.27 90.87 | 2021 AAAI |
 | [DTN](https://ieeexplore.ieee.org/document/9507460) || 19.40 86.87 | 22.03 87.71 | 21.43 88.81 | 18.26 89.40 | 2021 TIFS |
 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) || 19.53 88.63 | 16.54 90.18 | 14.51 93.84 | 13.80 93.43 | 2021 TPAMI |
 | [SSAN-M](https://ieeexplore.ieee.org/document/9879842) || 10.42 94.76 | 16.47 90.81 | 14.00 94.58 | 19.51 88.17 | 2022 CVPR |
