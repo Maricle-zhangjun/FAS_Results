@@ -25,7 +25,8 @@
 | [DDAM](https://ojs.aaai.org/index.php/AAAI/article/view/16199) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 12.70 95.66 | 20.98 85.58 | 15.43 91.22 | 15.27 90.87 | 2021 AAAI |
 | [DTN](https://ieeexplore.ieee.org/document/9507460) || 19.40 86.87 | 22.03 87.71 | 21.43 88.81 | 18.26 89.40 | 2021 TIFS |
 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) || 19.53 88.63 | 16.54 90.18 | 14.51 93.84 | 13.80 93.43 | 2021 TPAMI |
-| [SSAN](https://ieeexplore.ieee.org/document/9879842) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 6.67 98.75 | 10.00 96.67 | 8.88 96.79 | 13.72 93.63 | 2022 CVPR | [Code](https://github.com/wangzhuo2019/SSAN) |
+| [SSAN-M](https://ieeexplore.ieee.org/document/9879842) || 10.42 94.76 | 16.47 90.81 | 14.00 94.58 | 19.51 88.17 | 2022 CVPR |
+| [SSAN-R](https://ieeexplore.ieee.org/document/9879842) || 6.67 98.75 | 10.00 96.67 | 8.88 96.79 | 13.72 93.63 | 2022 CVPR | [Code](https://github.com/wangzhuo2019/SSAN) |
 | [CIFAS](https://ieeexplore.ieee.org/document/9859783) |[DSCI](https://ieeexplore.ieee.org/abstract/document/10288514)| 5.95 96.32 | 10.66 95.30 | 8.50 97.24 | 13.17 93.44 | 2022 ICME |
 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 10.46 94.43 | 10.95 94.73 | 9.95 95.57 |  17.78 88.93 | 2023 PRCV |
 | [DSCI](https://ieeexplore.ieee.org/abstract/document/10288514) || 5.48 97.39 | 8.00 97.50 | 5.71 98.44 |  12.59 94.57 | 2024 TIFS |
