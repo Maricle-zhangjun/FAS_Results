@@ -49,7 +49,7 @@
 | [LBP-TOP](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_11) |[SURF-FV](https://ieeexplore.ieee.org/document/7748511)| 10.0 | 7.90 7.60 | 2012 ACCVW |
 | [Motion-Mag](https://ieeexplore.ieee.org/document/6595861) |[Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280)| 14.4 | 0.20 0.00 | 2013 CVPRW |
 | [Color LBP](https://ieeexplore.ieee.org/abstract/document/7351280) || 6.20 | 0.40 2.90 | 2015 ICIP | [Code](https://github.com/Elroborn/Face-anti-spoofing-based-on-color-texture-analysis) |
-| [New Color LBP](https://ieeexplore.ieee.org/document/7454730) || 3.20 | 0.00 3.50 | 2016 TIFS |
+| [New Color LBP](https://ieeexplore.ieee.org/document/7454730) || 2.10 | 0.40 2.80 | 2016 TIFS |
 | [SURF-FV](https://ieeexplore.ieee.org/document/7748511) || 2.80 | 0.10 2.20 | 2017 SPL |
 | [HASC](https://www.sciencedirect.com/science/article/abs/pii/S0952197623019723) || 2.85 | 1.67 2.67 | 2024 EAAI |
 | [CNN](https://arxiv.org/abs/1408.5601) |[New Color LBP](https://ieeexplore.ieee.org/document/7454730)| 7.40 | 6.10 2.10 | 2014 arXiv |[Code1](https://github.com/mnikitin/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing?tab=readme-ov-file) [Code2](https://github.com/RizhaoCai/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing) [Code3](https://github.com/Elroborn/Learn-Convolutional-Neural-Network-for-Face-Anti-Spoofing_pytorch)|
