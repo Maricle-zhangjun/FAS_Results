@@ -71,7 +71,8 @@
 | Pro.1 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 0.4 | 1.7 | 1.0 | 2020 CVPR | [Code](https://github.com/ZitongYu/CDCN) |
 | Pro.1 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 0.4 | 0.0 | 0.2 | 2020 CVPR |
 | Pro.1 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 1.7 | 0.8 | 1.3 | 2020 ECCV |
-| Pro.1 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) |[SAFPAD](https://ieeexplore.ieee.org/document/9650907)| 5.1 | 6.7 | 5.9 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
+| Pro.1 | [ATS-CNN(MobileNet)](https://ieeexplore.ieee.org/document/8737949) || 3.9 | 9.5 | 6.7 | 2020 TIFS |
+| Pro.1 | [ATS-CNN(ResNet)](https://ieeexplore.ieee.org/document/8737949) || 5.1 | 6.7 | 5.9 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
 | Pro.1 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 3.8 | 2.9 | 3.4 | 2021 TIFS |
 | Pro.1 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) || 0.4 | 0 | 0.2 | 2021 TPAMI |
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.6 | 1.2 | 0.9 | 2022 TIFS |
@@ -87,7 +88,8 @@
 | Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 1.5 | 1.4 | 1.5 | 2020 CVPR |
 | Pro.2 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 1.8 | 0.8 | 1.3 | 2020 CVPR |
 | Pro.2 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 1.1 | 3.6 | 2.4 | 2020 ECCV |
-| Pro.2 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 7.6 | 2.2 | 4.9 | 2020 TIFS |
+| Pro.2 | [ATS-CNN(MobileNet)](https://ieeexplore.ieee.org/document/8737949) || 3.6 | 9.0 | 6.3 | 2020 TIFS |
+| Pro.2 | [ATS-CNN(ResNet)](https://ieeexplore.ieee.org/document/8737949) || 7.6 | 2.2 | 4.9 | 2020 TIFS |
 | Pro.2 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 3.6 | 1.2 | 2.4 | 2021 TIFS |
 | Pro.2 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) || 1.5 | 0.8 | 1.2 | 2021 TPAMI |
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 2.2 | 2.6 | 2.4 | 2022 TIFS |
@@ -103,7 +105,8 @@
 | Pro.3 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 2.4±1.3 | 2.2±2.0 | 2.3±1.4 | 2020 CVPR |
 | Pro.3 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 1.7±1.5 | 2.0±1.2 | 1.8±0.7 | 2020 CVPR |
 | Pro.3 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 2.8±2.2 | 1.7±2.6 | 2.2±2.2 | 2020 ECCV |
-| Pro.3 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
+| Pro.3 | [ATS-CNN(MobileNet)](https://ieeexplore.ieee.org/document/8737949) || 8.7±4.5 | 5.3±2.3 | 6.3±2.2 | 2020 TIFS |
+| Pro.3 | [ATS-CNN(ResNet)](https://ieeexplore.ieee.org/document/8737949) || 3.9±2.8 | 7.3±1.1 | 5.6±1.6 | 2020 TIFS |
 | Pro.3 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 3.8±1.3 | 1.1±1.1 | 2.5±0.8 | 2021 TIFS |
 | Pro.3 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) || 2.1±1.3 | 1.4±1.1 | 1.7±0.6 | 2021 TPAMI |
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 2.2±2.0 | 2.8±3.7 | 2.5±2.6 | 2022 TIFS |
@@ -119,7 +122,8 @@
 | Pro.4 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 4.6±4.6 | 9.2±8.0 | 6.9±2.9 | 2020 CVPR |
 | Pro.4 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 4.2±3.4 | 5.8±4.9 | 5.0±2.9 | 2020 CVPR |
 | Pro.4 | [DRL](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 5.4±2.9 | 3.3±6.0 | 4.4±3.0 | 2020 ECCV |
-| Pro.4 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
+| Pro.4 | [ATS-CNN(MobileNet)](https://ieeexplore.ieee.org/document/8737949) || 10.9±4.6 | 12.7±5.1 | 11.3±3.9 | 2020 TIFS |
+| Pro.4 | [ATS-CNN(ResNet)](https://ieeexplore.ieee.org/document/8737949) || 11.3±3.9 | 9.7±4.8 | 9.8±4.2 | 2020 TIFS |
 | Pro.4 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 5.9±3.3 | 6.3±4.7 | 6.1±4.1 | 2021 TIFS |
 | Pro.4 | [NAS-FAS](https://ieeexplore.ieee.org/abstract/document/9252183) || 4.2±5.3 | 1.7±2.6 | 2.9±2.8 | 2021 TPAMI |
 | Pro.4 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 6.6±7.1 | 6.0±5.5 | 6.3±5.9 | 2022 TIFS |
