@@ -82,6 +82,7 @@
 | Pro.1 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 0.7 | 0.6 | 0.6 | 2022 IJCB |
 | Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.0 | 0.8 | 0.4 | 2022 TPAMI |
 | Pro.1 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 2.5 | 3.2 | 2.8 | 2022 TIFS | [Code](https://github.com/WeihangWANG/Conv-MLP) |
+| Pro.1 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 1.06 | 0.08 | 0.57 | 2023 Neurocomputing | [Code](https://github.com/TAD-FAS/TAD) |
 | Pro.1 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 0.6 | 0.8 | 0.7 | 2023 PRCV |
 | Pro.1 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 0.8 | 0 | 0.4 | 2023 CVPRW |
 | Pro.1 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0 | 0 | 0 | 2023 CVPRW |
@@ -99,6 +100,7 @@
 | Pro.2 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 1.3 | 1.1 | 1.2 | 2022 IJCB |
 | Pro.2 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 1.2 | 1.3 | 1.3 | 2022 TPAMI |
 | Pro.2 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 0.0 | 1.6 | 0.8 | 2022 TIFS |
+| Pro.2 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 1.75 | 1.72 | 1.74 | 2023 Neurocomputing |
 | Pro.2 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 1.9 | 0.5 | 1.2 | 2023 PRCV |
 | Pro.2 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 1.5 | 0.9 | 1.2 | 2023 CVPRW |
 | Pro.2 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0.8 | 0.8 | 0.8 | 2023 CVPRW |
@@ -116,6 +118,7 @@
 | Pro.3 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 1.7±1.4 | 1.8±1.1 | 1.7±0.7 | 2022 IJCB |
 | Pro.3 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 1.7±1.4 | 2.2±3.5 | 1.9±2.3 | 2022 TPAMI |
 | Pro.3 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 2.5±1.0 | 2.0±0.8 | 2.2±0.6 | 2022 TIFS |
+| Pro.3 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 2.16±7.75 | 1.72±1.62 | 1.94±1.45 | 2023 Neurocomputing |
 | Pro.3 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 1.4±0.6 | 1.7±1.5 | 1.5±1.0 | 2023 PRCV |
 | Pro.3 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 1.2±1.2 | 2.2±1.8 | 1.7±1.6 | 2023 CVPRW |
 | Pro.3 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 0.9±0.8 | 0.8±0.8 | 0.9±0.8 | 2023 CVPRW |
@@ -133,6 +136,7 @@
 | Pro.4 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 3.4±1.5 | 5.5±4.4 | 4.5±2.7 | 2022 IJCB |
 | Pro.4 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 2.3±3.6 | 4.2±5.4 | 3.6±4.2 | 2022 TPAMI |
 | Pro.4 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 6.4±4.5 | 3.4±5.1 | 4.9±4.8 | 2022 TIFS |
+| Pro.4 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 6.27±20.42 | 2.85±11.67 | 4.63±4.35 | 2023 Neurocomputing 
 | Pro.4 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 2.5±2.7 | 3.3±2.6 | 2.9±1.0 | 2023 PRCV |
 | Pro.4 | [AAD-FAS](https://ieeexplore.ieee.org/document/10208287) || 4.9±3.2 | 5.7±6.2 | 5.3±2.9 | 2023 CVPRW |
 | Pro.4 | [GAIN](https://ieeexplore.ieee.org/abstract/document/10208551) || 4.6±2.2 | 4.2±1.9 | 4.4±2.0 | 2023 CVPRW |
@@ -153,6 +157,7 @@
 | Pro.1 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00 | 0.00 | 0.00 | 2022 WACV |
 | Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00 | 0.00 | 0.00 | 2022 TPAMI |
 | Pro.1 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 0.28 | 1.06 | 0.67 | 2022 TIFS | [Code](https://github.com/WeihangWANG/Conv-MLP) |
+| Pro.1 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 0.12 | 0.00 | 0.06 | 2023 Neurocomputing | [Code](https://github.com/TAD-FAS/TAD) |
 | Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 0.00±0.00 | 0.13±0.09 | 0.06±0.04 | 2020 CVPR |
 | Pro.2 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 0.00±0.00 | 0.09±0.10 | 0.04±0.05 | 2020 CVPR |
 | Pro.2 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 0.08±0.17 | 0.15±0.00 | 0.11±0.08 | 2020 ECCV |
@@ -163,6 +168,7 @@
 | Pro.2 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 WACV |
 | Pro.2 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 TPAMI |
 | Pro.2 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 0.12±0.07 | 0.15±0.05 | 0.13±0.05 | 2022 TIFS |
+| Pro.2 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 0.23±0.03 | 0.00±0.00 | 0.12±0.01 | 2023 Neurocomputing |
 | Pro.3 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 1.67±0.11 | 1.76±0.12 | 1.71±0.11 | 2020 CVPR |
 | Pro.3 | [CDCN++](https://ieeexplore.ieee.org/document/9156660) || 1.97±0.33 | 1.77±0.10 | 1.90±0.15 | 2020 CVPR |
 | Pro.3 | [HMP](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_33) || 2.55±0.89 | 2.34±0.47 | 2.45±0.68 | 2020 ECCV |
@@ -173,3 +179,4 @@
 | Pro.3 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 4.77±5.04 | 2.44±2.74 | 3.58±3.93 | 2022 WACV |
 | Pro.3 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 13.1±9.4 | 1.6±0.6 | 7.4±4.3 | 2022 TPAMI |
 | Pro.3 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 4.07±0.32 | 1.10±0.55 | 2.59±0.40 | 2022 TIFS |
+| Pro.3 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 18.38±159.83 | 4.86±0.72 | 11.62±45.52 | 2023 Neurocomputing |
