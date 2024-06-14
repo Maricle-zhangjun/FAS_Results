@@ -6,8 +6,8 @@
 
 ## Contents
 - [Cross test](#cross)
-  - [Cross_CR](#cross_C&R)
-  - [Cross_OCIM](#cross_O&C&I&M)   
+  - [Cross_C&R](#cross_C&R)
+  - [Cross_O&C&I&M](#cross_O&C&I&M)   
 - [Intra test](#intra)
   - [CASIA-FASD & Replay-attack](#C&R)
   - [OULU-NPU](#O)
