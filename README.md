@@ -6,6 +6,8 @@
 
 ## Contents
 - [Cross test](#cross)
+  - [Cross_CR](#cross_CR)
+  - [Cross_OCIM](#cross_OCIM)   
 - [Intra test](#intra)
   - [CASIA-FASD & Replay-attack](#C&R)
   - [OULU-NPU](#O)
@@ -16,6 +18,21 @@
 <a name="cross" />
 
 ### Cross test
+
+<a name="cross_CR" />
+
+#### C&R
+
+| Method | Results From | C to R | R to C | Year Notes | Code |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [LBP-TOP](https://ieeexplore.ieee.org/document/6612981) |[TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448)| 49.7 | 60.6 | 2013 ICB |
+| [Color Texture](https://ieeexplore.ieee.org/document/7454730) || 30.3 | 37.7 | 2016 TIFS |
+| [De-spoof](https://link.springer.com/chapter/10.1007/978-3-030-01261-8_18) || 28.5 | 41.1 | 2018 ECCV |
+| [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 36.2 | 34.7 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
+
+<a name="cross_OCIM" />
+
+#### O&C&I&M
 
 | Method | Results From | O&C&I to M <br> HTER(%) AUC(%) | O&M&I to C <br> HTER(%) AUC(%) | O&C&M to I <br> HTER(%) AUC(%) | I&C&M to O <br> HTER(%) AUC(%) | Year Notes | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
