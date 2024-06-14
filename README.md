@@ -6,8 +6,8 @@
 
 ## Contents
 - [Cross test](#cross)
-  - [Cross_CR](#cross_CR)
-  - [Cross_OCIM](#cross_OCIM)   
+  - [Cross_CR](#cross_C&R)
+  - [Cross_OCIM](#cross_O&C&I&M)   
 - [Intra test](#intra)
   - [CASIA-FASD & Replay-attack](#C&R)
   - [OULU-NPU](#O)
@@ -19,7 +19,7 @@
 
 ### Cross test
 
-<a name="cross_CR" />
+<a name="cross_C&R" />
 
 #### C&R
 
@@ -27,10 +27,15 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [LBP-TOP](https://ieeexplore.ieee.org/document/6612981) |[TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448)| 49.7 | 60.6 | 2013 ICB |
 | [Color Texture](https://ieeexplore.ieee.org/document/7454730) || 30.3 | 37.7 | 2016 TIFS |
-| [De-spoof](https://link.springer.com/chapter/10.1007/978-3-030-01261-8_18) || 28.5 | 41.1 | 2018 ECCV |
+| [De-spoof](https://link.springer.com/chapter/10.1007/978-3-030-01261-8_18) || 28.5 | 41.1 | 2018 ECCV | [Code](https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing) |
+| [STASN](https://ieeexplore.ieee.org/document/8953211) || 31.5 | 30.9 | 2019 CVPR |
+| [STASN+](https://ieeexplore.ieee.org/document/8953211) || 18.7 | 25.0 | 2019 CVPR |
 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 36.2 | 34.7 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
+| [Disentanglement_FAS](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 22.4 | 30.3 | 2020 ECCV |
+| [Identity-DS](https://www.sciencedirect.com/science/article/pii/S0925231220320075) || 27.1 | 31.4 | 2021 Neurocomputing |
+| [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 29.0 | 34.4 | 2023 Neurocomputing | [Code](https://github.com/TAD-FAS/TAD) |
 
-<a name="cross_OCIM" />
+<a name="cross_O&C&I&M" />
 
 #### O&C&I&M
 
@@ -77,6 +82,7 @@
 | [Att Two Streem-CNN (ATS-CNN)](https://ieeexplore.ieee.org/document/8737949) || 3.14 | 0.13 0.25 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
 | [Deep Transfer Net (DTN)](https://ieeexplore.ieee.org/document/9507460) || 1.34 | 0.06 0.02 | 2021 TIFS |
 | [CIFL](https://ieeexplore.ieee.org/document/9336714) || 0.89 | - - | 2021 TIFS |
+| [Identity-DS](https://www.sciencedirect.com/science/article/pii/S0925231220320075) || 3.3 | 0.2 0.0 | 2021 Neurocomputing |
 | [TSViT](https://www.sciencedirect.com/science/article/abs/pii/S1047320322000621) || 0.00 | 0.00 0.00 | 2022 JVCIR |
 
 <a name="O" />
