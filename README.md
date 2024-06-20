@@ -32,6 +32,7 @@
 | [STASN+](https://ieeexplore.ieee.org/document/8953211) || 18.7 | 25.0 | 2019 CVPR |
 | [ATS-CNN](https://ieeexplore.ieee.org/document/8737949) || 36.2 | 34.7 | 2020 TIFS | [Code](https://github.com/Vincent9797/Attention-Based-Two-Stream-Convolutional-Networks-for-Face-Spoofing-Detection) |
 | [Disentanglement_FAS](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_38) || 22.4 | 30.3 | 2020 ECCV |
+| [CDCN](https://ieeexplore.ieee.org/document/9156660) || 15.5 | 32.6 | 2020 CVPR | [Code](https://github.com/ZitongYu/CDCN) |
 | [Identity-DS](https://www.sciencedirect.com/science/article/pii/S0925231220320075) || 27.1 | 31.4 | 2021 Neurocomputing |
 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 29.0 | 34.4 | 2023 Neurocomputing | [Code](https://github.com/TAD-FAS/TAD) |
 
