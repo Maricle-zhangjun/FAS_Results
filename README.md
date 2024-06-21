@@ -1,4 +1,4 @@
-# Paper results of Face Anti-spoofing
+![image](https://github.com/Maricle-zhangjun/FAS_Results/assets/120095814/1816ce29-d97f-460c-afaf-641c83e617f5)# Paper results of Face Anti-spoofing
 
 🔔 If experiment results are derived from a non-original paper, the paper needs to be tagged in 'Results From'.
 
@@ -180,6 +180,7 @@
 | Pro.1 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.89 | 0.97 | 0.93 | 2022 TIFS |
 | Pro.1 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00 | 0.00 | 0.00 | 2022 WACV |
 | Pro.1 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00 | 0.00 | 0.00 | 2022 TPAMI |
+| Pro.1 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 0.04 | 0.12 | 0.08 | 2022 IJCB |
 | Pro.1 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 0.28 | 1.06 | 0.67 | 2022 TIFS | [Code](https://github.com/WeihangWANG/Conv-MLP) |
 | Pro.1 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 0.12 | 0.00 | 0.06 | 2023 Neurocomputing | [Code](https://github.com/TAD-FAS/TAD) |
 | Pro.2 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 0.00±0.00 | 0.13±0.09 | 0.06±0.04 | 2020 CVPR |
@@ -191,6 +192,7 @@
 | Pro.2 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 0.39±0.31 | 0.29±0.23 | 0.34±0.27 | 2022 TIFS |
 | Pro.2 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 WACV |
 | Pro.2 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 0.00±0.00 | 0.00±0.00 | 0.00±0.00 | 2022 TPAMI |
+| Pro.2 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 0.00±0.00 | 0.09±0.10 | 0.04±0.05 | 2022 IJCB |
 | Pro.2 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 0.12±0.07 | 0.15±0.05 | 0.13±0.05 | 2022 TIFS |
 | Pro.2 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 0.23±0.03 | 0.00±0.00 | 0.12±0.01 | 2023 Neurocomputing |
 | Pro.3 | [CDCN](https://ieeexplore.ieee.org/document/9156660) || 1.67±0.11 | 1.76±0.12 | 1.71±0.11 | 2020 CVPR |
@@ -202,5 +204,6 @@
 | Pro.3 | [SAFPAD](https://ieeexplore.ieee.org/document/9650907) || 8.26±1.98 | 8.12±2.17 | 8.19±2.24 | 2022 TIFS |
 | Pro.3 | [DSFL](https://ieeexplore.ieee.org/document/9706972) || 4.77±5.04 | 2.44±2.74 | 3.58±3.93 | 2022 WACV |
 | Pro.3 | [STDN+](https://ieeexplore.ieee.org/document/9779478) || 13.1±9.4 | 1.6±0.6 | 7.4±4.3 | 2022 TPAMI |
+| Pro.3 | [IDCL](https://ieeexplore.ieee.org/document/10007943) || 1.43±0.30 | 1.54±0.10 | 1.58±0.15 | 2022 IJCB |
 | Pro.3 | [Conv-MLP](https://ieeexplore.ieee.org/abstract/document/9796574) || 4.07±0.32 | 1.10±0.55 | 2.59±0.40 | 2022 TIFS |
 | Pro.3 | [TAD](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002448) || 18.38±159.83 | 4.86±0.72 | 11.62±45.52 | 2023 Neurocomputing |
