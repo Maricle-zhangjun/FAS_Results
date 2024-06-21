@@ -1,4 +1,4 @@
-![image](https://github.com/Maricle-zhangjun/FAS_Results/assets/120095814/1816ce29-d97f-460c-afaf-641c83e617f5)# Paper results of Face Anti-spoofing
+# Paper results of Face Anti-spoofing
 
 🔔 If experiment results are derived from a non-original paper, the paper needs to be tagged in 'Results From'.
 
