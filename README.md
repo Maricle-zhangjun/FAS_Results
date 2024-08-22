@@ -58,7 +58,7 @@
 | [UDG-FAS](https://ieeexplore.ieee.org/abstract/document/10376963) || 7.14 97.31 | 11.44 95.59 | 6.28 98.61 |  12.18 94.36 | 2023 ICCV |
 | [UDG-FAS+SSDG](https://ieeexplore.ieee.org/abstract/document/10376963) || 5.95 98.47 | 9.82 96.76 | 5.86 98.62 |  10.97 95.36 | 2023 ICCV |
 | [DSCI](https://ieeexplore.ieee.org/abstract/document/10288514) || 5.48 97.39 | 8.00 97.50 | 5.71 98.44 |  12.59 94.57 | 2024 TIFS |
-| [DLIF](https://arxiv.org/abs/2407.08243) || 3.75 98.33 | 6.67 97.27 | 5.82 98.13 |  8.89 96.36 | 2024 arxiv | [Code](https://github.com/yjyddq/DLIF) |
+| [DLIF](https://arxiv.org/abs/2407.08243) || 3.75 98.33 | 6.67 97.27 | 5.82 98.13 |  8.89 96.36 | 2024 arXiv | [Code](https://github.com/yjyddq/DLIF) |
 
 ---
 
