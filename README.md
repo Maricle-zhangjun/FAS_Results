@@ -53,8 +53,12 @@
 | [SSAN-R](https://ieeexplore.ieee.org/document/9879842) || 6.67 98.75 | 10.00 96.67 | 8.88 96.79 | 13.72 93.63 | 2022 CVPR |
 | [CIFAS](https://ieeexplore.ieee.org/document/9859783) || 5.95 96.32 | 10.66 95.30 | 8.50 97.24 | 13.17 93.44 | 2022 ICME |
 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 10.46 94.43 | 10.95 94.73 | 9.95 95.57 |  17.78 88.93 | 2023 PRCV |
+| [IADG](https://ieeexplore.ieee.org/document/10204357) || 5.41 98.19 | 8.70 96.44 | 10.62 94.50 |  8.86 97.14 | 2023 CVPR | [Code](https://github.com/qianyuzqy/IADG) |
+| [SA-FAS](https://ieeexplore.ieee.org/document/10203881) || 5.95 96.55 | 8.78 95.37 | 6.58 97.54 |  10.00 96.23 | 2023 CVPR | [Code](https://github.com/sunyiyou/SAFAS) |
+| [UDG-FAS](https://ieeexplore.ieee.org/abstract/document/10376963) || 7.14 97.31 | 11.44 95.59 | 6.28 98.61 |  12.18 94.36 | 2023 ICCV |
+| [UDG-FAS+SSDG](https://ieeexplore.ieee.org/abstract/document/10376963) || 5.95 98.47 | 9.82 96.76 | 5.86 98.62 |  10.97 95.36 | 2023 ICCV |
 | [DSCI](https://ieeexplore.ieee.org/abstract/document/10288514) || 5.48 97.39 | 8.00 97.50 | 5.71 98.44 |  12.59 94.57 | 2024 TIFS |
-| [DLIF](https://arxiv.org/abs/2407.08243) || 3.75 98.33 | 6.67 97.27 | 5.82 98.13 |  8.89 96.36 | 2024 arxiV | [Code](https://github.com/yjyddq/DLIF) |
+| [DLIF](https://arxiv.org/abs/2407.08243) || 3.75 98.33 | 6.67 97.27 | 5.82 98.13 |  8.89 96.36 | 2024 arxiv | [Code](https://github.com/yjyddq/DLIF) |
 
 ---
 
