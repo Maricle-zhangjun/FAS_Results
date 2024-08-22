@@ -54,6 +54,7 @@
 | [CIFAS](https://ieeexplore.ieee.org/document/9859783) || 5.95 96.32 | 10.66 95.30 | 8.50 97.24 | 13.17 93.44 | 2022 ICME |
 | [SgDN](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_1) || 10.46 94.43 | 10.95 94.73 | 9.95 95.57 |  17.78 88.93 | 2023 PRCV |
 | [DSCI](https://ieeexplore.ieee.org/abstract/document/10288514) || 5.48 97.39 | 8.00 97.50 | 5.71 98.44 |  12.59 94.57 | 2024 TIFS |
+| [DLIF](https://arxiv.org/abs/2407.08243) || 3.75 98.33 | 6.67 97.27 | 5.82 98.13 |  8.89 96.36 | 2024 arxiV | [Code](https://github.com/yjyddq/DLIF) |
 
 ---
 
